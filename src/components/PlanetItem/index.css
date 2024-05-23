@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.name {
+  color: #f1f5f9;
+}
+
+.para {
+  color: #f8fafc;
+  font-size: 20px;
+}
+
+.img {
+  height: 40px;
+}
